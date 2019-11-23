@@ -1,0 +1,11 @@
+OBJECTIVE
+The main objective is create a MadLib Generator
+1) We will need to make a story.
+2) We will need to make a if statements that takes input from the player. 
+3) We will prompt the player for option of adventure.  
+4) We will need to put all of the player's inputs into the Adventure Game.
+5) We will need to print the Adventure Game for the player to proceed to next option of adventure. 
+
+PSEUDOCODE
+
+ADVENTURE_GAME = "I'm going on an adventure though the {} (noun). 
